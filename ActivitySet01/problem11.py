@@ -19,3 +19,4 @@ t=list(count.items())
 t.sort()
 for key,value in t:
     print(key,value)
+ 
